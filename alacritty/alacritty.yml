@@ -85,3 +85,6 @@ font:
 
     # Point size of the font
     size: 12
+
+env: 
+  TERM: alacritty

@@ -13,6 +13,7 @@ brew install --cask discord
 brew install rust
 brew install --cask alacritty
 brew install neovim
+brew install lazygit
 
 # zshrc setup
 cat <<EOF > ~/.zshrc
