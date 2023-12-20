@@ -12,6 +12,7 @@ brew install starship
 brew install --cask discord
 brew install rust
 brew install --cask alacritty
+brew install neovim
 
 # zshrc setup
 cat <<EOF > ~/.zshrc
